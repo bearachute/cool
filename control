@@ -1,0 +1,9 @@
+Package: com.gibbies.rocky
+Name: Cool
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: skt
+Author: skt
+Section: Tweaks
